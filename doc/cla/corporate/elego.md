@@ -12,4 +12,9 @@ Signed,
 
 List of contributors:
 
+Yurdik Cervantes Mendoza ycervantes@elegosoft.com https://github.com/yucer
+Kay Häusler kay.haeusler@elego.de https://github.com/khaeusler
+Mark Draheim mdraheim@elegosoft.com https://github.com/mdraheim
+Michael Goetz-Schneider mgoetz@elegosoft.com https://github.com/mrgoetz
+Yu Weng yweng@elegosoft.com https://github.com/yweng8111
 Richard Möhn richard.moehn@posteo.de https://github.com/rmoehn
