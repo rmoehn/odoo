@@ -1,4 +1,4 @@
-Germany, 2016-03-08
+Germany, 2016-03-31
 
 elego Software Solutions GmbH agrees to the terms of the Odoo Corporate
 Contributor License Agreement v1.0.
@@ -8,7 +8,7 @@ declaration.
 
 Signed,
 
-<name> wagner@elego.de https://github.com/olaf-wagner
+Olaf Wagner wagner@elego.de https://github.com/olaf-wagner
 
 List of contributors:
 
